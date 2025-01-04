@@ -1,0 +1,22 @@
+.products-list {
+    padding-bottom: 150px;
+}
+h2 {
+    letter-spacing: 2px;
+}
+.search {
+    position: relative;
+    display: inline-block;
+}
+input {
+    border: 1px solid #b7b7b7;
+    outline: none;
+    padding: 4px 10px;
+    width: 250px;
+}
+.search svg {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 10px;
+}

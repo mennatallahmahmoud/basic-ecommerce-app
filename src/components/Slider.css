@@ -1,0 +1,19 @@
+.special-height {
+    height: 100vh;
+}
+
+.special-height .slider-img {
+    height: 100vh;
+    background-size: cover;
+}
+.image1 {
+    background-image: url("./Images/ecommerce\ \(1\).jfif");
+}
+
+.image2 {
+    background-image: url("./Images/ecommerce\ \(1\).jpg");
+}
+
+.image3 {
+    background-image: url("./Images//ecommerce\ \(2\).jpg");
+}
