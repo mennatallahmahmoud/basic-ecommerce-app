@@ -1,7 +1,3 @@
-import Image1 from './Images/ecommerce (1).jpg';
-import Image2 from './Images/ecommerce (1).jfif'
-import Image3 from './Images/ecommerce (2).jpg';
-
 import './Slider.css';
 
 
