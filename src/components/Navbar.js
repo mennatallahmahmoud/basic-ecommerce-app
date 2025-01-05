@@ -8,7 +8,7 @@ function Navbar() {
         <nav className="navbar navbar-expand-lg bg-body-tertiary p-0 position-fixed z-3 w-100">
             <div className="container">
                 <Link className="navbar-brand" to="/">
-                    <img src={Image1} className="logo m-0"/>
+                    <img src={Image1} className="logo m-0" alt="logo"/>
                 </Link>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                 <span className="navbar-toggler-icon"></span>
