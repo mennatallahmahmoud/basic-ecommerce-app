@@ -11,6 +11,7 @@ function ProductDetails() {
     const [prd, setPrd] = useState({});
     const [loading, setLoading] = useState(false);
 
+    /* eslint-disable react-hooks/exhaustive-deps */
     useEffect(() => {
         setLoading(true);
         fetch(`${api_url}/${params.productId}`).then((res) => res.json()).then((prd) => {
